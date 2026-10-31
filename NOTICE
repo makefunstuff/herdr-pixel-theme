@@ -1,0 +1,11 @@
+herdr-pixel-theme
+
+The mods in herdr-app/mods/px-* are modified copies of mods shipped with
+Herdr (https://herdr.dev), licensed under the Apache License 2.0 (see LICENSE).
+Each modified file carries a notice on its first line.
+
+herdr-app/fonts/PxPlus_IBM_VGA_8x16.ttf is by VileR (int10h.org), licensed
+under CC BY-SA 4.0 (see herdr-app/fonts/LICENSE-PxPlus.txt).
+
+The theme colours, layout changes, pixel glyphs, program icons, logo sprite
+and sounds are original to this project and released under Apache-2.0.
