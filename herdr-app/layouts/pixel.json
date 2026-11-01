@@ -46,6 +46,28 @@
                 "weight": 1
               },
               "min": 90
+            },
+            {
+              "id": "usage",
+              "type": "block",
+              "content": {
+                "mod": "px-usage"
+              },
+              "size": {
+                "px": 250
+              },
+              "min": 60
+            },
+            {
+              "id": "sysmon",
+              "type": "block",
+              "content": {
+                "mod": "px-sysmon"
+              },
+              "size": {
+                "px": 236
+              },
+              "min": 60
             }
           ]
         },
